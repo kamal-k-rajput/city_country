@@ -1,0 +1,30 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "",
+      "id": 2
+    },
+    {
+      "country": "India",
+      "id": 3
+    }
+  ],
+  "city": [
+    {
+      "country": "India",
+      "city": "NEW DELHI",
+      "population": "13414513",
+      "id": 1
+    },
+    {
+      "country": "India",
+      "city": "bidhuna",
+      "population": "657",
+      "id": 2
+    }
+  ]
+}
